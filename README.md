@@ -8,6 +8,14 @@ Every AI coding tool starts every session from zero. Your architecture, your dec
 
 You can include anything in your knowledge directory, from business context to design systems. Over time, your `.knowledge/` directory compounds into a flywheel of vastly improved code quality and business value.
 
+## What Compounds
+
+Structured knowledge makes AI multiplicative. 
+
+1. Agent reads your conventions, decisions and documented systems and immediately begins building better code.
+2. Agent begins to understand why your architecture exists, and what solutions and systems fit best within it for new, wider areas of development. 
+3. Agent operates with a senior team member's institutional memory, building and adapting your knowledge layer over time as it learns. 
+
 ---
 
 ## Quick Start
@@ -118,16 +126,6 @@ A lookup table in your README that maps natural-language questions to specific d
 ```
 
 Only `README.md` is required. Everything else is optional. Start with one file. Add structure as knowledge accumulates through development.
-
----
-
-## What Compounds
-
-Structured knowledge makes AI multiplicative. 
-
-1. Agent reads your conventions, decisions and documented systems and immediately begins building better code.
-2. Agent begins to understand why your architecture exists, and what solutions and systems fit best within it for new, wider areas of development. 
-3. Agent operates with a senior team member's institutional memory, building and adapting your knowledge layer over time as it learns. 
 
 ---
 
