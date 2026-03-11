@@ -16,8 +16,6 @@ Structured knowledge makes AI multiplicative.
 2. Agent begins to understand why your architecture exists, and what solutions and systems fit best within it for new, wider areas of development. 
 3. Agent operates with a senior team member's institutional memory, building and adapting your knowledge layer over time as it learns. 
 
----
-
 ## Quick Start
 
 ```bash
